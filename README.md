@@ -1,5 +1,5 @@
 # Inventory Management System (IMS)
-![alt text](img/home.png)
+![alt text](img/Home.png)
 Overview
 
 The Inventory Management System (IMS) is a Python-based desktop application that helps manage inventory operations such as employee management, supplier records, product categories, sales tracking, and billing. The application features a user-friendly Tkinter GUI and uses SQLite as the database backend.
