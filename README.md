@@ -32,7 +32,7 @@ pip install -python3 --version
 # or
 yarn dev
 # or
-git clone https://github.com/DHAKHAD/Inventory-Management-System-IMS-Brainwave_Matrix_Intern-Task2
+[git clone https://github.com/DHAKHAD/Inventory-Management-System-IMS-Brainwave_Matrix_Intern-Task2](https://github.com/DHAKHAD/Inventory-Management-System-IMS-Brainwave_Matrix_Intern-Task2.git)
 # or
 cd inventory-management-system
 ```
